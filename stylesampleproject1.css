@@ -1,0 +1,23 @@
+ul{
+    float: right;
+}
+ul li{
+    display: inline-block;
+    padding: 3px;
+    transition: 1s ease; 
+}
+ul li :hover{
+background-color: rgba(63, 165, 42, 0.904);
+}
+h3{
+    color: rgb(183, 0, 255);
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+body{
+    background-image: url(./pics/3.webp);
+}
