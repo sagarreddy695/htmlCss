@@ -1,0 +1,32 @@
+.card-body{
+    background: url(/img1/chatbg.png);
+    height: 650px;
+    width: 500px;
+    color: white;
+    font-family: sans-serif;
+}
+.card-header{
+    background-color: #323f4b ;
+    text-align: center;
+    padding: 20px;
+
+}
+.card-title{
+    text-align: right;
+    padding: 10px;
+    background-color: #47a3f3;
+    margin: 15px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    
+}
+.card-subtitle{
+    text-align: left;
+    padding: 10px;
+    background-color: #52606d;
+    margin: 15px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}

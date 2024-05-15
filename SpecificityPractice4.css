@@ -1,0 +1,12 @@
+.blue-text{
+    color: blue;
+}
+.property-container{
+    background-color: lightgray;
+    width: 30vw;
+    height: 30vh;
+    padding: 10px;
+}
+#description{
+    font-size: 20px;
+}

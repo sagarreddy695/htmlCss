@@ -1,0 +1,21 @@
+.carousel-inner{
+    width: 60vw;
+}
+.goa-card-container{
+    width: 60vw;
+}
+.goa-Videos-container {
+        height: 100px;
+        width: 300px;
+        border-radius: 15px;
+        margin: 5px;
+}
+.image1{
+    margin: 8px;
+}
+.image2{
+    margin: 8px;
+}
+.image3{
+    margin: 8px;
+}

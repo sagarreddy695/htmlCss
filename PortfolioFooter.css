@@ -1,0 +1,19 @@
+.footer-img{
+    height: 70px;
+    width: 70px;
+}
+
+.portfolio-footer-heading{
+    color: #cced00;
+    padding-left: 10px;
+}
+
+.portfolio-footer-bgclr{
+    background-color: rgba(7, 1, 1, 0.966);
+}
+.portfolio-footer-para{
+    color: rgb(173, 171, 171);
+}
+.icon{
+    color: rgb(173, 171, 171);
+}

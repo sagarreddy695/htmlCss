@@ -1,0 +1,17 @@
+
+.heading{
+    background-image: url(/img1/codingbg.png);
+   background-size: cover;
+   height: 150vh;
+   width: 50vw;
+   padding: 150px;
+
+}
+.paragraph{
+    border: 6px solid #48ee59;
+    color: white;
+    font-size: larger;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}

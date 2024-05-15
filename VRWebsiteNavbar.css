@@ -1,0 +1,54 @@
+.imglogo {
+    height: 60px;
+    width: 80px;
+  }
+  
+  #navitem1 {
+    color: #323f4b;
+    font-family: Roboto;
+  }
+  
+  #navitem2 {
+    color: #323f4b;
+    font-family: Roboto;
+  }
+  
+  #navitem3 {
+    color: #323f4b;
+    font-family: Roboto;
+  }
+  
+  #navitem4 {
+    color: #323f4b;
+    font-family: Roboto;
+  }
+  
+  .bgimage {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+  }
+  
+  .heading {
+    font-family: Roboto;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  .button {
+    background-color: #1a2137;
+    font-family: Roboto;
+    font-size: 15px;
+    width: 110px;
+    height: 40px;
+    border-radius: 5px;
+    border-width: 0px;
+    color: white;
+  }
+  .trans{
+    padding: 8px;
+    background-color: transparent;
+    color: white;
+    margin: 20px;
+  }

@@ -1,0 +1,11 @@
+.body{
+    background-color: rgb(181, 194, 189);
+
+}
+.heading2{
+    background-color: rgb(181, 194, 189);
+    color: orange;
+    border: 2px solid orange;
+    width: 190px;
+    padding: 5px;
+}

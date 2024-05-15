@@ -1,0 +1,29 @@
+.features-heading1 {
+    font-family: Roboto;
+    font-size: 20px;
+    color: #1f2933;
+    font-weight: bold;
+  }
+  
+  .features-image-cards{
+    width: 30px;
+    height: 30px;
+  }
+  
+  .features-heading2 {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #1f2933;
+  }
+  
+  .features-paragraph {
+    font-family: Roboto;
+    font-size: 12px;
+    color: #7b8794;
+  }
+  .text-container{
+    text-align: center;
+  }
+  .main{
+    width: 260px;
+  }

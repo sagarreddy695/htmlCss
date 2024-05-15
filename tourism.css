@@ -1,0 +1,38 @@
+body{
+    background-image: url(/img1/top-view-aerial-image-from-drone-of-an-beautiful-sea-landscape-beach-with-turquoise-water-with-copy-space-for-text-2WXYXWF.jpg);
+}
+.total{
+    text-align: center;
+    margin-top: 200px;
+}
+h1{
+    font-size: 50px;
+    
+}
+button{
+    background-color: rgb(201, 145, 40);
+    color: antiquewhite;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.nav{
+    display: flex;
+}
+.nav-list{
+    display: flex;
+    justify-content: right;
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: 900px;
+    background-color: rgb(166, 192, 107);
+    color: white;
+}
+
+.list{
+    margin: 8px;
+
+    }
+    h4{
+        margin-left: 1050px;
+    }

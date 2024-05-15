@@ -1,0 +1,23 @@
+.background-container{
+    background-image: url(/img1/tecnology.png);
+    background-size: cover;
+    height: 100vh;
+    width: 40vw;
+}
+.card{
+    background-color: #ffffff
+    border-radius: 15px;
+    padding: 20px;
+}
+.main-heading{
+    color: #5752ab;
+    margin: 10px;
+}
+.paragraph{
+    color: #323f4b;
+    margin: 10px;
+}
+button{
+    margin-right: 20px;
+    margin-top: 10px;
+}

@@ -1,0 +1,62 @@
+.container{
+    width: 40vw;
+    height: 95vh;
+    background-color: darkorchid;
+}
+.card1{
+    background-color: white;
+    justify-content: center;
+    margin-left: 8px;
+}
+.card-image{
+    width: 30vw;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    }
+h5{
+        text-align: right;
+    }
+    h1{
+        text-align: center;
+    }
+    .paragraph{
+        text-align: center;
+    }
+    .card2{
+        text-align: center;
+        background-color: white;
+        margin-top: 30px;
+    }
+.btn{
+    background-color: orange;
+    color: rgb(34, 230, 99)
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.one{
+    padding: 5px;
+    margin-top: 10px;
+    font-family: roboto;
+    border-radius: 5px;
+}
+.two{
+margin-top: 10px;
+padding-right: 10px;
+font-family: roboto;
+border-radius: 5px;
+}
+.three{
+    margin-top: 10px;
+    padding-right: 10px;
+    background-color: rgb(158, 207, 201);
+    color: rgb(22, 21, 21);
+    font-family: roboto;
+    border-radius: 5px;
+    }
+    .four{
+        margin-top: 10px;
+        padding-right: 10px;
+        font-family: roboto;
+        border-radius: 5px;
+        }

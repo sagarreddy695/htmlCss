@@ -1,0 +1,22 @@
+.top-section{
+    background-color: red;
+    color: white;
+    padding: 15px;
+    width: 30vw;
+}
+
+.bottom-section{
+    background-color: #c2dce2;
+    height: 500px;
+    padding: 10px;
+    width: 30vw;
+}
+
+.record-text{
+    background-color: #f1f0f0;
+    padding: 8px;
+}
+.btn-primary{
+    width: 100px;
+    margin-left: 120px;
+}

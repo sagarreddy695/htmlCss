@@ -1,0 +1,21 @@
+.background-container{
+    background-image: url(/img1/hotelbg.png);
+    background-size: cover;
+    height: 100vh;
+    width: 40vw;
+}
+.main-heading{
+    color: #ffffff;
+    background-color: #000000e6;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.button{
+    text-align: center;
+    margin-left: 200px;
+    font-size: small;
+    border-radius: 10px;
+    padding: 10px;
+}

@@ -1,0 +1,19 @@
+.carry{
+    background-image: url(/img1/todolistbg.png);
+    color: beige;
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+}
+h1{
+    text-align: center;
+}
+.buttontype{
+    background-color: orange;
+    color: white;
+    margin-left: 200px;
+}
+a{
+    color: white;
+    margin-left: 150px;
+}

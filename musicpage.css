@@ -1,0 +1,55 @@
+
+.container{
+    background-image: url(https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png);
+    background-size: cover;
+    width: 40vw;
+    color: white;
+    text-align: center;
+    height: 100vh;
+}
+.footer{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png);
+    background-size: cover;
+    width: 30vw;
+    color: white;
+    text-align: center;
+    height: 30vh;
+    margin-left: 40px;
+}
+
+.header{
+    margin-top: 50px;
+}
+
+h2{
+    margin-top: 50px;
+}
+button{
+    width: 140px;
+    margin-left: 180px;
+    background-color: rgb(162, 111, 209);
+    color: white;
+}
+.button{
+    background-color: rgb(162, 111, 209);
+    color: white;
+    border-radius: 10px;
+}
+
+.container1{
+    width: 25rem;
+    background-color: #03174c;
+
+    color: white;
+}
+.home-item-image1{
+    width: 10rem;
+    margin: 10px;
+}
+.bottom{
+    padding-left: 25px;
+}
+button{
+    margin-right: 450px;
+    
+}

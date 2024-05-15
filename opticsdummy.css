@@ -1,0 +1,29 @@
+.img-cards {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .heading1 {
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    color: #1f2933;
+  }
+  
+  .paragraph1 {
+    font-family: Roboto;
+    font-size: 17px;
+    color: #7b8794;
+  }
+  
+  .button {
+    font-family: Roboto;
+    color: white;
+    font-size: 15px;
+    background-color: #1a2137;
+    height: 40px;
+    width: 110px;
+    border-radius: 5px;
+    border-width: 0px;
+  }
+  

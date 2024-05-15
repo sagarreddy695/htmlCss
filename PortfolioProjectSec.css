@@ -1,0 +1,28 @@
+.background{
+    background-color: #52606d;
+    padding-top: 10px;
+}
+.card{
+    background-color: #323f4b;
+}
+.heading1{
+    color: yellowgreen;
+}
+.heading2{
+    color: white;
+}
+.para{
+    color: rgb(107, 112, 112);
+}
+.heading{
+    color: whitesmoke;
+}
+.paragraph{
+    color: rgb(169, 173, 173);
+}
+.p1{
+    color: yellow;
+}
+.arrow{
+    color: yellow;
+}

@@ -1,0 +1,27 @@
+.portfolio-bg{
+    background-color: #1f2933;
+    height: 90vh;
+    width: 80vw;
+}
+.portfolio-heading{
+    color: yellowgreen
+}
+.portfolio-heading1{
+    color: white;
+}
+.pic{
+    height: 60px;
+    width: 60px;
+}
+.carousel-item{
+    background-color: #4e5155;
+    height: 60vh;
+    width: 50vw;
+    text-align: center;
+}
+.para1{
+    color: rgb(89, 134, 134);
+}
+.heading1{
+    color: white;
+}

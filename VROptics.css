@@ -1,0 +1,15 @@
+.img-cards {
+    width: 60px;
+    height: 60px;
+  }
+  .button {
+    font-family: Roboto;
+    color: white;
+    font-size: 15px;
+    background-color: #1a2137;
+    height: 40px;
+    width: 110px;
+    border-radius: 5px;
+    border-width: 0px;
+  }  
+

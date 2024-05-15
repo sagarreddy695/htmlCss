@@ -1,0 +1,20 @@
+.body{
+    background-color: #e0e7f0;
+    
+}
+.card-image{
+    height: 120px;
+    width: 140px;
+    border-radius: 15px;
+}
+.card-image1{
+    height: 220px;
+    width: 340px;
+    border-radius: 15px;
+}
+.para{
+    color: rgb(180, 180, 74);
+}
+.arrow{
+    color: rgb(180, 180, 74);
+}

@@ -1,0 +1,110 @@
+.home-page-image{
+    width: 30vw;
+    height: 30vh;
+    background-size: cover;
+    margin: 3px;
+    
+}
+.hompe-page-header-image{
+    width: 30vw;
+    height: 30vh;
+    background-size: cover;
+}
+
+
+
+.advancedtechnologies-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 110vh;
+    width: 30vw;
+}
+.advancedtechnologies-card{
+    margin-top: 130px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+.btn{
+    padding-left: 30px;
+     margin-right: 30px;
+
+}
+.button{
+    margin-right: 70rem;
+    padding: 10px;
+}
+.advancedtechnologies-discription{
+    height: 10px;
+    width: 30vw;
+}
+
+
+
+.coding{
+   background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png);
+   background-size: cover;
+   height: 90vh;
+   width: 30vw;
+   color: white;
+   padding: 100px;
+
+}
+.coding-heading{
+    border: 5px solid rgb(99, 207, 99);
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+.btn{
+    margin: 50px;
+}
+
+
+
+
+.meals-bg-container{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
+    background-size: cover;
+    height: 100vh;
+    width: 30vw;
+}
+.meals-card{
+    background-color: rgb(238, 179, 76);
+   height: 35vh;
+}
+.card-heading{
+    margin-top: 20px;
+}
+.all-btns{
+    margin-bottom: 50rem;
+}
+.card-description{
+    height: 5px;
+    width: 30vw;
+}
+
+
+
+.news-bg-container{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png);
+    background-size: cover;
+    width: 40vw;
+    height: 100vh;
+   
+}
+.news-card{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+.news-button{
+    background-color: black;
+    color: white;
+    
+}
+.news-description{
+    height: 60px;
+    width: 35vw;
+}

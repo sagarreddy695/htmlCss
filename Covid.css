@@ -1,0 +1,52 @@
+.c1{
+    background-color: rgb(179, 197, 191);
+    border-radius: 10px;
+}
+.c2{
+    background-color: rgb(226, 226, 169);
+    border-radius: 10px;
+}
+.container{
+    width: 40vw;
+    border-style: solid;
+    border-color: rgb(204, 216, 212);
+    border-width: 1.5mm;
+    padding: 10px;
+}
+.header{
+    padding: 8px;
+}
+.card-image1{
+    padding: 20px;
+}
+.cough{
+    background-color: rgb(157, 197, 157);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 12px;
+}
+.fever{
+    background-color: rgb(172, 118, 118);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 12px;
+}
+.headache{
+    background-color: rgb(183, 148, 216);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 12px;
+}
+.card-image{
+    size-adjust: 10mm;
+    height: 70px;
+    width: 70px;
+    margin-top: 5px;
+}
+.btn-primary{
+    border-radius: 8px;
+    margin-bottom: 10px;
+}

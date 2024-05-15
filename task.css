@@ -1,0 +1,9 @@
+.card-container{
+    background-color: rgb(201, 202, 202);
+}
+.nav{
+    justify-content: space-between;
+}
+.nav-list{
+    justify-content: space-around;
+}

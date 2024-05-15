@@ -1,0 +1,67 @@
+.ourproducts-img1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    height: 50vh;
+    background-size: cover;
+    border-radius: 10px;
+    padding: 15px;
+  }
+  
+  .ourproducts-heading {
+    font-family: Roboto;
+    font-size: 34px;
+    color: white;
+    font-weight: 700;
+  }
+  
+  .ourproducts-paragraph {
+    font-family: Roboto;
+    font-size: 14px;
+    color: white;
+  }
+  
+  .ourproducts-button {
+    font-family: Roboto;
+    height: 45px;
+    width: 110px;
+    color: #ff9f00;
+    border-radius: 25px;
+    border-width: 0px;
+    background-color: white;
+  }
+  
+  .cardsparagraph {
+    font-family: Roboto;
+    color: black;
+    font-size: 12px;
+  }
+  
+  .cardsheading {
+    font-family: Roboto;
+    color: black;
+    font-size: 17px;
+    font-weight: 700;
+  }
+  
+  .ul-style {
+    list-style-type: none;
+    padding-left: 0px;
+  }
+  
+  .ourproducts-button1 {
+    font-family: Roboto;
+    height: 40px;
+    width: 110px;
+    color: #323f4b;
+    border-radius: 10px;
+    border-color: #323f4b;
+    border-width: 2px;
+    background-color: white;
+  }
+  
+  .ourproducts-img2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    height: 50vh;
+    background-size: cover;
+    border-radius: 10px;
+    padding: 15px;
+  }

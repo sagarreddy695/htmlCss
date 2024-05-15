@@ -1,0 +1,17 @@
+.background{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+    height: 50vh;
+    text-align: center;
+}
+.thumb{
+    color: white;
+}
+.book{
+    color: white;
+}.time{
+    color: white;
+}
+hr{
+    width: 40px;
+}

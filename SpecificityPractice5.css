@@ -1,0 +1,15 @@
+
+
+.blue-bg{
+    background-color: dodgerblue;
+    padding: 20px;
+}
+.orange-bg{
+    background-color: orange !important;
+    padding: 20px;
+}
+
+.para{
+    width: 20vw;
+    height: 40vh;
+}
