@@ -1,0 +1,17 @@
+.image1{
+    height: 180px;
+    width: 600px;
+}
+.body1{
+    background-color: rgb(223, 217, 217);
+}
+.body2{
+    background-color: rgb(144, 194, 214);
+}
+.button1{
+    background-color: blue;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+}
