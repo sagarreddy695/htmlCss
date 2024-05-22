@@ -1,0 +1,39 @@
+.body1 {
+    background-color: cyan;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .headingcolor {
+    font-family: Roboto;
+    color: #1f1d41;
+    font-size: 50px;
+    font-weight: bold;
+  }
+  
+  .body2 {
+    background-color: #1f1d41;
+    height: 230px;
+    width: 70px;
+    border-radius: 30px;
+  }
+  
+  .light {
+    background-color: #4b5069;
+    border-radius: 20px;
+    height: 40px;
+    width: 40px;
+    margin-right: 12px;
+    margin-left: 12px;
+    margin-top: 20px;
+  }
+  
+  .buttons {
+    height: 40px;
+    width: 70px;
+    font-size: 12px;
+    color: white;
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: #1f1d41;
+  }
