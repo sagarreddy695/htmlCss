@@ -1,0 +1,39 @@
+.total{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png);
+    width: 45vw;
+}
+.carousel-item{
+    width: 40vw;
+    margin-left: 37px;
+    padding-top: 20px;
+}
+.btn{
+    margin-left: 90px;
+
+}
+button{
+    border-radius: 10px;
+    color: orange;
+    padding: 5px;
+    width: 105px;
+}
+h1{
+    margin-left: 25px;
+    color: white;
+}
+.para{
+    font-size: medium;
+    width: 40vw;
+    margin-left: 25px;
+    color: white;
+}
+h4{
+    margin-left: 25px;
+    color: white;
+}
+
+.movie-videos-container{
+    width: 30vw;
+    margin-left: 20px;
+    
+}
