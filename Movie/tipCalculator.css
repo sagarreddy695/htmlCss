@@ -1,0 +1,33 @@
+.body{
+    background-color: #f9fbfe;
+}
+.image1{
+    width: 80%;
+}
+.main-heading{
+    color: #246fa2;
+}
+.input-label{
+    color: #7b8794;
+}
+.amount{
+    height: 30px;
+    width: 70%;
+    border-color: #cbd2d9;
+    border-width: 1px;
+    border-style: solid;
+    padding-left: 12px;
+    border-radius: 4px;
+}
+.btn{
+    background-color: #264fa2;
+    color: white;
+    border-radius: 4px;
+    font-size: 18px;
+}
+.error-message{
+    color: #cf1124;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 10px;
+}
