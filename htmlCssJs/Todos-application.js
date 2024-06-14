@@ -1,5 +1,4 @@
 
-
 function getToDoListFromLocalStorage() {
     let parsedToDoList = JSON.parse(localStorage.getItem("todoListKey"));
     if (parsedToDoList === null) {

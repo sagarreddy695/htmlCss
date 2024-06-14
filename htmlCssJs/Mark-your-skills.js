@@ -19,8 +19,8 @@ function onCheckboxStatus(checkboxId, LabelsId){
     checkboxLabelElement.classList.add('checked');
 }
 function onAppendItems(item){
-    let checkboxId = 'checkbox' //+ item.skillName;
-    let LabelId = 'label' //+ item.skillName;
+    let checkboxId = 'checkbox' ;
+    let LabelId = 'label' ;
    let listItemElement = document.createElement('li');
     listItemElement.classList.add('list-item',  'd-flex','flex-row');
     listItemsContainerElement.appendChild(listItemElement);
