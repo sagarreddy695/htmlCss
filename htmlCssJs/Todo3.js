@@ -106,6 +106,7 @@ function createAndAppendTodo(todo) {
     }
     deleteIconContainer.appendChild(deleteIcon);
 
+    
 };
 
 
