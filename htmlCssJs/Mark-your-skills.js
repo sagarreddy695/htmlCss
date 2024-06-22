@@ -8,6 +8,7 @@ let skillList = [{
     uniqueNo: 2,
 },
 {
+    
     skillName: "JavaScript",
     uniqueNo: 3,
 }
