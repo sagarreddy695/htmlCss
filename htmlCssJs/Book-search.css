@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.header-container {
+    background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/book-search-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.heading {
+    font-size: 25px;
+    font-weight: 600;
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.user-input {
+    border: 1px solid #000000;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    max-width: 400px;
+}
+
+.drop-down {
+    border: 1px solid #000000;
+    border-radius: 5px;
+    max-width: 400px;
+}
+
+.result-container {
+    padding: 30px 10px 20px 1px;
+}
+
+.result-output {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.book-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.image-ele {
+    height: 180px;
+    margin-bottom: 18px;
+}
+
+.author-info {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: 500;
+    size: 15px;
+    text-align: center;
+}
+
+.no-result {
+    text-align: center;
+}
