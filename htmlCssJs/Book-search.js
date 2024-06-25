@@ -72,7 +72,6 @@ fetchBooksdata = () => {
             displaySearchResult(jsonData)
 
         })
-
 }
 
 changeBooksCount = (event) => {

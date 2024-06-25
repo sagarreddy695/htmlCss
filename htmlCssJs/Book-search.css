@@ -41,6 +41,7 @@
     flex-wrap: wrap;
 }
 
+
 .book-card {
     display: flex;
     flex-direction: column;
