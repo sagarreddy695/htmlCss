@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    margin: 0px;
+}
+
+.bg-container {
+    background-image: linear-gradient(to right, #659ebc, #2aaba8, #2aaba8);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.heading {
+    text-align: center;
+    /*align items center*/
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Roboto";
+    max-width: 500px;
+    /*max width of heading box*/
+}
+
+.paragraph {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Roboto";
+    color: #ffffff;
+    max-width: 1000px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 15px;
+}
+
+.card {
+    border-radius: 15px;
+    border: 0px solid;
+    background-color: #ffffff;
+    padding: 20px;
+    width: 240px;
+    /*set a width to card so that it doesn't expand though text increase*/
+    font-family: "Roboto";
+    margin: 10px;
+}
+
+.card-image {
+    display: flex;
+    /*to flex treanding block in image container*/
+    justify-content: flex-end;
+    /*align trending block to end  along main axis*/
+    align-items: flex-end;
+    /*align trending block to bottom along cross axis */
+    background-size: cover;
+    height: 200px;
+    border-radius: 15px;
+    width: 100%;
+
+}
+
+.badge {
+    background-color: #f7941d;
+    color: white;
+    border-radius: 15px;
+    padding: 5px 15px 5px 15px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+}
+
+.card-footer-container {
+    display: flex;
+    /*to flex items in footer area*/
+    justify-content: space-between;
+}
+
+.Price {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.icon-container {
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    background-color: #659ebc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.nike-1 {
+    background-image: url("https://assets.ccbp.in/frontend/intermediate-rwd/nike-shoes-1-img.png");
+}
+
+.nike-2 {
+    background-image: url("https://assets.ccbp.in/frontend/intermediate-rwd/nike-shoes-2-img.png");
+}
+
+.nike-3 {
+    background-image: url("https://assets.ccbp.in/frontend/intermediate-rwd/nike-shoes-3-img.png");
+}
+
+.go-local {
+    background-color: #ECF018;
+    color: black;
+}
+
+.users-choice {
+    background-color: #58D68D;
+}
+
+.out-of-stock {
+    background-color: #943126;
+}
