@@ -4,6 +4,7 @@ body {
     margin: 0px;
 }
 
+
 .bg-container {
     background-image: linear-gradient(to right, #659ebc, #2aaba8, #2aaba8);
     min-height: 100vh;
