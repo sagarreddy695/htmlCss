@@ -13,6 +13,7 @@ imgJs.setAttribute("src", recipeObj.imgSrc);
 
 let ulJs = document.getElementById("ulJs");
 
+
 for (let checkLists of recipeObj.ingredients) {
     let licreateJs = document.createElement("li");
     licreateJs.textContent = checkLists;
